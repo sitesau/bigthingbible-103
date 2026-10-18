@@ -1,0 +1,22 @@
+{
+  "wheel_id": 408,
+  "structure": "umbrella",
+  "slug": "bigthingbible-103",
+  "project": "big-things-australia-timeline-2f460d5f00781004351eb35d7d3c17cf6",
+  "parent_t1_ref": "bigthingbible-151",
+  "node_role": "feeder",
+  "money_target": "bigthingbible.com.au",
+  "primary_kw": "big things australia timeline",
+  "intended_url": "https://aumedia.neocities.org/big-things-australia-timeline-2f460d5f00781004351eb35d7d3c17cf6/",
+  "tier": "T2",
+  "writeback_nonce": "0385b1288d1f0ce4",
+  "links": [
+    {
+      "target_url": "http://big-things-australia-signs-you-need-40af43f06856efdf7ea817f1c25.s3-website-ap-southeast-2.amazonaws.com/index.html",
+      "anchor": "Big Things Australia Signs You Need: Signs You Need to See",
+      "rel": "follow",
+      "target_type": "cloud",
+      "anchor_type": "topical"
+    }
+  ]
+}
